@@ -1,2 +1,6 @@
-# Javascript
-Learning Js in Yt
+.black-text {
+  color: black;
+}
+</style>
+
+<span class="black-text">Pragati</span>
